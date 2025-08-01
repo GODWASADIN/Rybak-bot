@@ -114,4 +114,4 @@ async def lvl(ctx):
     await ctx.send(f"{ctx.author.mention}, masz {user_data['exp']} EXP i jesteś na poziomie {user_data['level']}.")
 
 import os
-bot.run(os.getenv("DISCORD_TOKEN"))
+bot.run(os.getenv("MTEzNjg3NjgyMDk0MDE5Nzk3Mg.GZHVw5.GokfwlgrN0BGHD1CwSmFI02-Imll4KFoO4rwfk"))
